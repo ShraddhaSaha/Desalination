@@ -1,0 +1,1 @@
+Due to size constraint, one dataset could not be uploaded in the repository. The Dataset is downloaded from https://www.kaggle.com/datasets/venkatramakrishnan/india-water-quality-data/data and then the work on "india-water-quality-data.ipynb" is done.
